@@ -1,0 +1,1 @@
+ALTER TABLE `#__com_test2name` ADD `params` VARCHAR(1024) NOT NULL DEFAULT '';

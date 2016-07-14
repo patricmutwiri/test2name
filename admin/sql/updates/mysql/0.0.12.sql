@@ -1,0 +1,1 @@
+ALTER TABLE `#__com_test2name` ADD `catid` int(11) NOT NULL DEFAULT '0';
